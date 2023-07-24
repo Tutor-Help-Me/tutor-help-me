@@ -1,0 +1,38 @@
+baseURL: http://tutorhelpme.co.uk/
+languageCode: en-uk
+title: Tutor Help Me
+theme: Eclectic
+author: 
+  facebook: "https://www.facebook.com/tutorhelpme"
+  instagram: "https://www.instagram.com/tutorhelpmeuk/"
+  linkedin: "https://www.linkedin.com/company/tutorhelpme/"
+  email: "info@tutorhelpme.co.uk"
+  name: "Tutor Help Me"
+  location: Brierfield, Lancashire, United Kingdom
+  phone: 01282 932 452
+  hours: "**Mon-Fri:** 10:00AM - 9:00PM, ET"
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about
+      weight: 100
+    - identifier: contact
+      name: Contact
+      url: /contact
+      weight: 200
+params:
+  color: "#4f46e5"
+  copyright: Copyright &copy; 2023 Tutor Help Me. All Rights Reserved.
+  footer:
+  - title: About
+    content: >
+      Empowering Minds, Enriching Futures -  Tutor Help Me is your gateway to
+      academic excellence.  Discover personalized learning, expert tutors,
+      and  cutting-edge resources to unlock your full potential.  Join us on
+      this journey!
+  - title: Recent Blog Posts
+    recents: blog
+    recentCount: 7
+  - title: Contact Us
+    contact: true
