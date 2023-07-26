@@ -2,6 +2,7 @@ baseURL: http://tutorhelpme.netlify.app/
 languageCode: en-uk
 title: Tutor Help Me
 theme: Eclectic
+enableEmoji: true
 author: 
   facebook: "https://www.facebook.com/tutorhelpme"
   instagram: "https://www.instagram.com/tutorhelpmeuk/"
