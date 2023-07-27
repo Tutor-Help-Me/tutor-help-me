@@ -37,6 +37,15 @@ params:
     recentCount: 7
   - title: Contact Us
     contact: true
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    lineNos: true
+enableEmoji: true
+
+
   # style: blue   ### Universal theme configuration
   # logo: /image/logo.png
   # logo_small: /image/logo.png
